@@ -1,0 +1,43 @@
+{
+  "session1": {
+    "SESSION_ID": "Gabby",
+    "PREFIX": "^[.,!]",
+    "SUDO": "254112842772",
+    "STICKER_PACKNAME": "Gabby",
+    "ALWAYS_ONLINE": "false",
+    "RMBG_KEY": "null",
+    "WARN_LIMIT": "3",
+    "FORCE_LOGOUT": "false",
+    "DISABLE_BOT": "null",
+    "ANTILINK_MSG": "&mention detected sending link, goodbye my friend, i wish i could help",
+    "ANTISPAM_MSG": "&mention detected spamming, goodbye my friend, i wish i could help",
+    "ANTIWORDS_MSG": " &mention kicked detected sending a forbidden word, thats not acceptable dear, goodbye",
+    "ANTIWORDS": "word",
+    "REJECT_CALL": "false",
+    "AUTO_STATUS_VIEW": "false",
+    "SEND_READ": "false",
+    "AJOIN": "false",
+    "GPT": "free",
+    "MODEL": "gpt-3.5-turbo",
+    "ANTI_DELETE": "null",
+    "PERSONAL_MESSAGE": "null",
+    "DISABLE_START_MESSAGE": "false",
+    "WARN_MESSAGE": "✦G✦warning! you can do better that this friend, so dont piss me off. ✦G✦\n*User :* &mention\n*Warn :* &warn\n*Remaining :* &remaining",
+    "WARN_RESET_MESSAGE": "WARN RESET\nUser : &mention\nRemaining : &remaining\nWARN_KICK_MESSAGE=&mention kicked",
+    "WARN_KICK_MESSAGE": "&mention kicked",
+    "DELETE_TYPE": "all",
+    "LIST_TYPE": "text",
+    "BING_COOKIE": "",
+    "GEMINI_API_KEY": "",
+    "GROUP_ADMINS": "",
+    "CMD_REACTION": "true"
+  },
+  "session2": {
+    "SESSION_ID": "Gabby_sessionid",
+    "PREFIX": "null"
+  },
+  "session3": {
+    "SESSION_ID": "Gabby_sessionid",
+    "PREFIX": ".."
+  }
+}
