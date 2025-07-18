@@ -1,5 +1,8 @@
 # Gabby Multi Device User Bot
-
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://files.catbox.moe/i5vhxx.jpeg" height="40" width="100%">
+</p>
 A simple WhatsApp Bot that supports all devices, 
 proudly created by Gabby.
 
