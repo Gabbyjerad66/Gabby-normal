@@ -12,7 +12,7 @@ proudly created by Gabby.
 ### Deploy on VPS or PC or any linus server (Example for Ubuntu)
 
  #### Quick Installation script <paste this to terminal>
-    bash <(curl -fsSL http://bit.ly/43JqREw)
+    bash <(curl -fsSL http://bit.ly/44UHzmG)
  #### ✦G✦ Manual Installation ✦G✦
 
 ##### install the following#####
